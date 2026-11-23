@@ -1,6 +1,6 @@
 # The joke
 
-Final entry (103 characters, one line):
+Final entry (96 characters, one line):
 
 > Removed the post-checkout hook that detects a detached HEAD just to echo "Hi detached, I'm Dad."
 
@@ -32,5 +32,5 @@ joke tradition; (4) tight, punchline at the end; (5) reads naturally aloud.
 Champion structure check (PAST-WINNERS.md, joke class): winning one-liners
 run 73–240 bytes, are format-native (commit messages, code review, flaky
 tests), and read like something clipped out of real work. The final is
-103 bytes in that band, shaped like a commit/changelog line, with the gag
+96 bytes in that band, shaped like a commit/changelog line, with the gag
 grown inside the tool itself rather than pasted onto a generic frame.
